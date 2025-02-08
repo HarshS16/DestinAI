@@ -21,7 +21,7 @@ const Audience = () => {
         textAlign={"center"}
         mb={10}
       >
-        We recommend TraitPath for
+        We recommend DestinAI for
       </Heading>
       <Grid
         templateColumns={{
