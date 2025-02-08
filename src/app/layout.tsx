@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     title: "DestinAI | Unlock Your True Potential",
-    creator: "Rishabh",
+    creator: "Harsh",
     // site: "@nfteam_eu",
     description:
       "DestinAI uses AI to analyze your personality and provide tailored insights, helping you unlock your strengths and achieve your goals.",
