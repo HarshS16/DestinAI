@@ -56,7 +56,7 @@ const Footer = () => {
         <Button
           rightIcon={<LuArrowRight />}
           as={motion.a}
-          href={"https://github.com/xrishabhjx"}
+          href={"https://github.com/HarshS16/DestinAI"}
           target="_b"
           whileHover={{ scale: 1.1 }}
           size={"lg"}
