@@ -14,6 +14,7 @@ Choosing a career is one of the most important decisions in a student's life, ye
 - **User-Friendly Interface** – Designed for ease of use, making career exploration simple and engaging.
 
 ## 🏗️ Tech Stack
+
 - **Frontend:** Next.js (for intuitive UI)
 - **Backend:** Express.js (for efficient API handling)
 - **Database:** MongoDB / Firebase (for user data storage)
